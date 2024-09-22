@@ -1,0 +1,22 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Android related
+.android/
+*.iml
+.idea/
+*.apk
+*.aar
+
+# VS Code related
+.vscode/
+
+# Misc
+*.log
